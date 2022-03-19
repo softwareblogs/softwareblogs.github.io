@@ -1,5 +1,5 @@
 # Welcome to Software Reviews!
 ## About
-This wiki reviews different kinds of softwares, such as email providers, VPNs, browsers, search engines... We review these software providers in a privacy standpoint. We review how ProtonMail doesn't care your privacy, how the VPN providers like VyprVPN is not as good as you may think of.
+This website reviews different kinds of softwares, such as email providers, VPNs, browsers, search engines... We review these softwares in a privacy standpoint. Check out the article list below for all of the current articles.
 ## Current Reviews
-* [Comparison of email providers](https://softwareblogs.github.io/email.html)
+* [Which email provider should I choose?](https://softwareblogs.github.io/email.html)
